@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Capture Groups">
-      <change afterPath="$PROJECT_DIR$/src/Comments.java" afterDir="false" />
+    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Commenting regular expressions">
+      <change afterPath="$PROJECT_DIR$/src/RegexPractice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CaptureGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaptureGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Comments">
+  <component name="RunManager" selected="Application.RegexPractice2">
     <configuration name="CaptureGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaptureGroups" />
       <module name="RegularExpressions" />
@@ -70,8 +70,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegexPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegexPractice2" />
+      <module name="RegularExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexPractice2" />
         <item itemvalue="Application.Comments" />
         <item itemvalue="Application.CaptureGroups" />
         <item itemvalue="Application.RegexPractice" />
@@ -86,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="17592000" />
+      <workItem from="1708552451788" duration="20131000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -128,7 +136,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708646809734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Capture Groups">
+      <option name="closed" value="true" />
+      <created>1708714815786</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714815786</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commenting regular expressions">
+      <option name="closed" value="true" />
+      <created>1708714852305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714852305</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commenting regular expressions">
+      <option name="closed" value="true" />
+      <created>1708714881329</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714881329</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Regular expression basics" />
     <MESSAGE value="Capture Groups" />
-    <option name="LAST_COMMIT_MESSAGE" value="Capture Groups" />
+    <MESSAGE value="Commenting regular expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commenting regular expressions" />
   </component>
 </project>

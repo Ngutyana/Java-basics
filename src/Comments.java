@@ -5,11 +5,11 @@ public class Comments {
     public static void main(String[] args) {
         String Regex = """
                        ((?<countryCode>[+]?\\d{2,3})[-.\\s]+)? #Gets country code
-                       ((?<areaCode>\\d{3})[-.\\s]+) #Gets area code
+                       ((?<areaCode>[(]?\\d{3}[)]?)[-.\\s]+) #Gets area code
                        ((?<exchange>\\d{3})[-.\\s]+) #Gets exchange
                        (?<lineNumber>\\d{3,}) #Gets line number
                        """;
-        String number = "+27 021-446-9524";
+        String number = "+27 (021) 446-9524";
 
         System.out.println(number.matches(Regex));
 
@@ -22,6 +22,7 @@ public class Comments {
             System.out.println("Area code: "+mat.group("areaCode"));
             System.out.println("Exchange: "+mat.group("exchange"));
             System.out.println("Line number: "+mat.group("lineNumber"));
+            System.out.println("Number: "+mat.group(0));
         }
 
     }
