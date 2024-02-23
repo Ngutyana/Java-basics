@@ -22,7 +22,6 @@ public class Comments {
             System.out.println("Area code: "+mat.group("areaCode"));
             System.out.println("Exchange: "+mat.group("exchange"));
             System.out.println("Line number: "+mat.group("lineNumber"));
-            System.out.println("\nPhone Number: "+mat.group(0));
         }
 
     }
