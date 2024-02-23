@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Capture Groups">
+      <change afterPath="$PROJECT_DIR$/src/Comments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CaptureGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaptureGroups.java" afterDir="false" />
     </list>
@@ -38,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/UnathiNgutyana/Desktop/People",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,9 +48,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CaptureGroups">
+  <component name="RunManager" selected="Application.Comments">
     <configuration name="CaptureGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaptureGroups" />
+      <module name="RegularExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comments" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comments" />
         <item itemvalue="Application.CaptureGroups" />
         <item itemvalue="Application.RegexPractice" />
       </list>
@@ -76,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="12623000" />
+      <workItem from="1708552451788" duration="17592000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -102,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708644832611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Capture Groups">
+      <option name="closed" value="true" />
+      <created>1708646570108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708646570108</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Capture Groups">
+      <option name="closed" value="true" />
+      <created>1708646809734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708646809734</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

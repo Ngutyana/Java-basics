@@ -18,10 +18,8 @@ public class CaptureGroups {
             System.out.println("Country code: "+match.group("countryCode"));
             System.out.println("Area code: "+match.group("areaCode"));
             System.out.println("Exchange: "+match.group("exchange"));
-            System.out.println("Line number "+match.group("lineNumber"));
+            System.out.println("Line number: "+match.group("lineNumber"));
             System.out.println("\nPhone Number: "+match.group(0));
-
-
         }
 
     }
