@@ -15,19 +15,23 @@ public class CaptureGroups {
 
         if(match.matches()) //Calling a matcher to confirm if the string matches the regex
         {
-
-
-
-
             System.out.println("Country code: "+match.group("countryCode"));
             System.out.println("Area code: "+match.group("areaCode"));
             System.out.println("Exchange: "+match.group("exchange"));
             System.out.println("Line number "+match.group("lineNumber"));
             System.out.println("\nPhone Number: "+match.group(0));
 
-  //N0.1
 
-            /*
+        }
+
+    }
+}
+
+/* ------------------------------ OTHER WAYS TO DO IT ----------------
+
+N0.1
+
+
             Note:
                Capture group(0) is the entire string
                Capture groups are determined by regex parenthesis -- ([+]?27[-.\s]+) -- group1
@@ -43,12 +47,14 @@ public class CaptureGroups {
                            System.out.println("Exchange: "+match.group(6));
                            System.out.println("Line number "+match.group(7));
                            System.out.println("\nPhone Number: "+match.group(0));
-           */
 
-//NO.2
-            // ?: can be used to choose the desired inner capture groups by blocking the external
-        /*
-                You insert the ?: right infront of the inner group parenthesis
+
+NO.2
+
+
+ ?: can be used to choose the desired inner capture groups by blocking the external
+
+                You insert the ?:  before the inner group parenthesis
 
         (?:([+]?\d{2,3})[-.\s]+)?(?:(\d{3})[-.\s]+)(?:(\d{3})[-.\s]+)(\d{3,})
 
@@ -59,8 +65,5 @@ public class CaptureGroups {
             System.out.println("Exchange: "+match.group(3));
             System.out.println("Line number "+match.group(4));
 
-        * */
-        }
 
-    }
-}
+*/
