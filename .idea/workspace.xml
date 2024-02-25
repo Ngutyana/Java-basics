@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Regular expressions">
-      <change afterPath="$PROJECT_DIR$/src/ParsingTxtDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleMatches.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegexPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegexPractice2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +49,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ParsingTxtDoc">
-    <configuration name="CaptureGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaptureGroups" />
+  <component name="RunManager" selected="Application.MathFunctions">
+    <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comments" />
+    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathFunctions" />
+      <module name="RegularExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleMatches" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,13 +73,6 @@
     </configuration>
     <configuration name="ParsingTxtDoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ParsingTxtDoc" />
-      <module name="RegularExpressions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegexPractice" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathFunctions" />
+        <item itemvalue="Application.Math" />
+        <item itemvalue="Application.MultipleMatches" />
         <item itemvalue="Application.ParsingTxtDoc" />
         <item itemvalue="Application.RegexPractice2" />
-        <item itemvalue="Application.Comments" />
-        <item itemvalue="Application.CaptureGroups" />
-        <item itemvalue="Application.RegexPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="25101000" />
+      <workItem from="1708552451788" duration="34346000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -184,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708717895192</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Regular expressions">
+      <option name="closed" value="true" />
+      <created>1708723090964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708723090964</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
