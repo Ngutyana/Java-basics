@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="To use a Random">
-      <change afterPath="$PROJECT_DIR$/src/calcAreaCircle.java" afterDir="false" />
+    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Math formula to calc an area of a circle">
+      <change afterPath="$PROJECT_DIR$/src/Compundinterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsingBigDecimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calcAreaCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generatingFormula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.calcAreaCircle">
-    <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math" />
+  <component name="RunManager" selected="Application.Compundinterest">
+    <configuration name="Compundinterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compundinterest" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultipleMatches" />
-      <module name="RegularExpressions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomNum" />
       <module name="RegularExpressions" />
@@ -82,8 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calcAreaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calcAreaCircle" />
+    <configuration name="UsingBigDecimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsingBigDecimals" />
+      <module name="RegularExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generatingFormula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generatingFormula" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.calcAreaCircle" />
+        <item itemvalue="Application.Compundinterest" />
+        <item itemvalue="Application.UsingBigDecimals" />
+        <item itemvalue="Application.generatingFormula" />
         <item itemvalue="Application.RandomNum" />
         <item itemvalue="Application.MathFunctions" />
-        <item itemvalue="Application.Math" />
-        <item itemvalue="Application.MultipleMatches" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="37668000" />
+      <workItem from="1708552451788" duration="47229000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -237,7 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708877272904</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="To use a Random">
+      <option name="closed" value="true" />
+      <created>1708877996809</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708877996809</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Math formula to calc an area of a circle">
+      <option name="closed" value="true" />
+      <created>1708878133841</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708878133841</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +267,7 @@
     <MESSAGE value="Math functions" />
     <MESSAGE value="Regular expressions" />
     <MESSAGE value="To use a Random" />
-    <option name="LAST_COMMIT_MESSAGE" value="To use a Random" />
+    <MESSAGE value="Math formula to calc an area of a circle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math formula to calc an area of a circle" />
   </component>
 </project>
