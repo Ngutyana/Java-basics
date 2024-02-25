@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Regular expressions">
-      <change afterPath="$PROJECT_DIR$/src/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultipleMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -39,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "https/github.com/Ngutyana/Ngutyana/tree/RegularExpressions",
     "last_opened_file_path": "C:/Users/UnathiNgutyana/Desktop/People",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MathFunctions">
+  <component name="RunManager" selected="Application.RandomNum">
     <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math" />
       <module name="RegularExpressions" />
@@ -78,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegexPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegexPractice2" />
+    <configuration name="RandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNum" />
       <module name="RegularExpressions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNum" />
         <item itemvalue="Application.MathFunctions" />
         <item itemvalue="Application.Math" />
         <item itemvalue="Application.MultipleMatches" />
         <item itemvalue="Application.ParsingTxtDoc" />
-        <item itemvalue="Application.RegexPractice2" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="34346000" />
+      <workItem from="1708552451788" duration="36503000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -193,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708723090964</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Math functions">
+      <option name="closed" value="true" />
+      <created>1708874444924</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708874444924</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Regular expressions">
+      <option name="closed" value="true" />
+      <created>1708874470541</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708874470541</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +222,7 @@
     <MESSAGE value="Regular expression basics" />
     <MESSAGE value="Capture Groups" />
     <MESSAGE value="Commenting regular expressions" />
+    <MESSAGE value="Math functions" />
     <MESSAGE value="Regular expressions" />
     <option name="LAST_COMMIT_MESSAGE" value="Regular expressions" />
   </component>
