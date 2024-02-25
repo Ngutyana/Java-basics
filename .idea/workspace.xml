@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="Regular expressions">
-      <change afterPath="$PROJECT_DIR$/src/RandomNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f70e41ed-34d0-493e-8061-ed989761515b" name="Changes" comment="To use a Random">
+      <change beforePath="$PROJECT_DIR$/src/RandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="https/github.com/Ngutyana/Ngutyana/tree/RegularExpressions" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "https/github.com/Ngutyana/Ngutyana/tree/RegularExpressions",
+    "git-widget-placeholder": "https/github.com/Ngutyana/Java-basics/tree/RegularExpressions",
     "last_opened_file_path": "C:/Users/UnathiNgutyana/Desktop/People",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -106,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708552450373</updated>
-      <workItem from="1708552451788" duration="36503000" />
+      <workItem from="1708552451788" duration="36961000" />
     </task>
     <task id="LOCAL-00001" summary="Regular expression basics">
       <option name="closed" value="true" />
@@ -212,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708874470541</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="To use a Random">
+      <option name="closed" value="true" />
+      <created>1708876892128</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708876892128</updated>
+    </task>
+    <task id="LOCAL-00015" summary="To use a Random">
+      <option name="closed" value="true" />
+      <created>1708877138404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708877138404</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +239,7 @@
     <MESSAGE value="Commenting regular expressions" />
     <MESSAGE value="Math functions" />
     <MESSAGE value="Regular expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Regular expressions" />
+    <MESSAGE value="To use a Random" />
+    <option name="LAST_COMMIT_MESSAGE" value="To use a Random" />
   </component>
 </project>
